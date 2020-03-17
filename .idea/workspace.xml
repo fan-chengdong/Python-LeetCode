@@ -89,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -100,6 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,7 +112,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,6 +171,7 @@
       <workItem from="1584151288487" duration="1793000" />
       <workItem from="1584342192755" duration="1129000" />
       <workItem from="1584407791347" duration="1405000" />
+      <workItem from="1584409348090" duration="438000" />
     </task>
     <task id="LOCAL-00001" summary="3.17 动态规划 commit">
       <created>1584408719412</created>
@@ -193,11 +194,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584409134205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.17 动态规划 commit">
+      <created>1584409492843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584409492843</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174382000" />
+    <option name="totallyTimeSpent" value="174820000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,9 +217,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="371" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.48979592" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -226,7 +234,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Jupyter" order="11" weight="0.20819671" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.628692" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.2442623" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32789558" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -303,9 +311,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3.17 动态规划 commit" />
     <MESSAGE value="3.17 动态规划 commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.17 动态规划 commit2" />
+    <MESSAGE value="3.17 动态规划 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.17 动态规划 commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/__init__.py">
