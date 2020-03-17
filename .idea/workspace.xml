@@ -89,11 +89,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="8" />
-    <option name="y" value="45" />
-    <option name="width" value="1386" />
-    <option name="height" value="680" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,7 +170,7 @@
       <workItem from="1584064372962" duration="4881000" />
       <workItem from="1584151288487" duration="1793000" />
       <workItem from="1584342192755" duration="1129000" />
-      <workItem from="1584407791347" duration="1038000" />
+      <workItem from="1584407791347" duration="1405000" />
     </task>
     <task id="LOCAL-00001" summary="3.17 动态规划 commit">
       <created>1584408719412</created>
@@ -187,11 +186,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584408953801</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3.17 动态规划 commit2">
+      <created>1584409134205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584409134205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174015000" />
+    <option name="totallyTimeSpent" value="174382000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -203,9 +209,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="141" y="0" width="1088" height="785" extended-state="1" />
+    <frame x="676" y="0" width="697" height="371" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30350193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.48979592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -220,7 +226,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Jupyter" order="11" weight="0.20819671" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.22887865" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.628692" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32789558" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
