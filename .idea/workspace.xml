@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70262153-504a-4e06-8144-08e3a79de629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_second.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_second.py" afterDir="false" />
-    </list>
+    <list default="true" id="70262153-504a-4e06-8144-08e3a79de629" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +89,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="114" />
-    <option name="y" value="6" />
-    <option name="width" value="1088" />
-    <option name="height" value="785" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="8" />
+    <option name="y" value="45" />
+    <option name="width" value="1386" />
+    <option name="height" value="680" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,12 +171,27 @@
       <workItem from="1584064372962" duration="4881000" />
       <workItem from="1584151288487" duration="1793000" />
       <workItem from="1584342192755" duration="1129000" />
-      <workItem from="1584407791347" duration="738000" />
+      <workItem from="1584407791347" duration="1038000" />
     </task>
+    <task id="LOCAL-00001" summary="3.17 动态规划 commit">
+      <created>1584408719412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584408719413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3.17 动态规划 commit2">
+      <created>1584408953801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584408953801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173715000" />
+    <option name="totallyTimeSpent" value="174015000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,9 +203,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="331" y="25" width="1088" height="785" extended-state="0" />
+    <frame x="141" y="0" width="1088" height="785" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30350193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30350193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -213,7 +220,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Jupyter" order="11" weight="0.20819671" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.22887865" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.22887865" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32789558" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -288,6 +295,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3.17 动态规划 commit" />
+    <MESSAGE value="3.17 动态规划 commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.17 动态规划 commit2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/__init__.py">
